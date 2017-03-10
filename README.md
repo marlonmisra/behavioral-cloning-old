@@ -11,7 +11,7 @@ The goals of this project are the following:
 * Summarize the results with a written report.
 
 
-##Background and files##
+##Files and testing##
 
 My project includes the following files:
 * model.py containing the script to create and train the model
